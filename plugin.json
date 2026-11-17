@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "suluscrm",
+  "version": "1.0.0",
+  "description": "Work with your SulusCRM Location: contacts, conversations, appointments, invoices and more, using tools that match your role."
+}
