@@ -3,7 +3,7 @@
   "mcpServers": {
     "suluscrm": {
       "type": "streamable-http",
-      "url": "https://crm.sulus.ai/suluscrm-mcp/connect"
+      "url": "https://crm-stage.sulus.ai/suluscrm-mcp/connect"
     }
   }
 }
